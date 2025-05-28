@@ -22,7 +22,7 @@ A machine learning-powered web application that predicts loan approval probabili
 
 ```bash
 # Clone repository
-git clone https://github.com/PIYUSH-JOSHI1/loan-prediction.git
+git clone https://github.com/SurajMoreTech/loan-prediction.git
 
 # Navigate to directory
 cd app.py
@@ -72,7 +72,7 @@ MIT License
 
 ## Developers 👥
 
-- Maintained by [Piyush-Joshi1](https://github.com/Piyush-Joshi1)
+- Maintained by [SurajMoreTech](https://github.com/SurajMoreTech/loan-prediction)
 
 ## Support 🆘
 
